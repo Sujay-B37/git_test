@@ -1,3 +1,4 @@
 Hi! 
 I'm new to Odin.
-this is another change
+this is another change.
+trying the same with cmd.
